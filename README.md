@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laporan Proyek Machine Learning - Dila Aura Futri
 
 ## Project Overview
@@ -301,6 +300,3 @@ Grafik di atas memvisualisasikan nilai root_mean_squared_error pada data pelatih
 
 **Kesimpulan**
 Model collaborative filtering berbasis neural matrix factorization menunjukkan performa evaluasi yang baik. Dengan RMSE validasi sekitar 0.1730, sistem memiliki potensi besar dalam memberikan rekomendasi anime yang relevan, personal, dan mendukung tujuan bisnis jangka panjang. Untuk pengembangan lanjutan, eksplorasi teknik regularisasi atau peningkatan dimensi embedding bisa dipertimbangkan, namun perlu tetap menjaga keseimbangan terhadap risiko overfitting.
-=======
-# Anime-Recommendation-System-Collaborative-Filtering
->>>>>>> acd7870a9fc633dd6a84d7e26374a578e4d5bec5
